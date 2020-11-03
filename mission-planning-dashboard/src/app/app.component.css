@@ -1,4 +1,18 @@
+.header {
+    background-color: lightgray;
+    padding: 10px;
+    border: 1px solid black;
+    width: 600px;
+    border-radius: 6px;
+    font-family: "Courier New";
+}
+
 .box {
+    background-color: lightpink;
     display: flex;
     padding: 10px;
+    border: 1px solid black;
+    width: 600px;
+    border-radius: 6px;
+    font-family: "Courier New";
  }
